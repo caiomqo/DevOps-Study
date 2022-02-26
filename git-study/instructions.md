@@ -16,8 +16,8 @@
 > git commit -m "Commit Message"
 
 - On GitHub
-    Log in
-    Create new Repository
-    git remote add origin https://github.com/username/new_repo
-    git remote add origin https://github.com/caiomqo/DevOps-Study.git
-    git push -u origin master
+> Log in
+> Create new Repository
+> git remote add origin https://github.com/username/new_repo
+> git remote add origin https://github.com/caiomqo/DevOps-Study.git
+> git push -u origin master
