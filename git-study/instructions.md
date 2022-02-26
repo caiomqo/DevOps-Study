@@ -10,7 +10,9 @@
 
 - On local repository/directory:
 > git init
+>
 > git add . 
+>
 > git commit -m "Commit Message"
 
 - On GitHub
