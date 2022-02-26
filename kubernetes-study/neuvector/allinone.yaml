@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+ name: neuvector-allinone-pod
+ namespace: neuvector
+spec:
+ selector:
+ matchLabels:
+ app: neuvector-allinone-pod
+ minReadySeconds: 60
+...
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+ name: neuvector-enforcer-pod
+ namespace: neuvector
+spec:
+ selector:
+ matchLabels:
+ app: neuvector-enforcer-pod
