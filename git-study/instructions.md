@@ -9,9 +9,9 @@
 - https://kbroman.org/github_tutorial/pages/init.html
 
 - On local repository/directory:
-    git init
-    git add . 
-    git commit -m "Commit Message"
+> git init
+> git add . 
+> git commit -m "Commit Message"
 
 - On GitHub
     Log in
