@@ -25,3 +25,4 @@
 - Arrows -> Switch Pane
 - O -> Next Pane
 - X -> Close Pane/Window
+- W -> Shows All Windows to Choose
