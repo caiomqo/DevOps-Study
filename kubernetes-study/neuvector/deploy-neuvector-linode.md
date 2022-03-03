@@ -2,6 +2,7 @@
 https://open-docs.neuvector.com/
 
 ## Download kubeconfig from Linode Cluster Page
+    linode.com
 
 ## Change kubectl cluster
     export KUBECONFIG=~/.kube/neuvector-kubeconfig.yaml
