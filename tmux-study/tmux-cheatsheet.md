@@ -30,3 +30,7 @@
 - O -> Next Pane
 - X -> Close Pane/Window
 - W -> Shows All Windows to Choose
+
+## Additional Items:
+    Scrolling, Copy Mode and vi Mode:
+    https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
